@@ -1,4 +1,4 @@
-package com.automationpractice.pojos;
+package com.automationpractice.apiTests;
 
 import static io.restassured.RestAssured.* ;
 import static io.restassured.matcher.RestAssuredMatchers.* ;

@@ -3,6 +3,8 @@ package com.automationpractice.stepDefs;
 import java.util.List;
 import java.util.Map;
 
+import com.automationpractice.apiTests.Payloads;
+
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
